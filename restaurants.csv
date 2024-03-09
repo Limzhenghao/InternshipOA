@@ -298,7 +298,7 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 16500330,Khan Uncle's Biryani House,1,Gangtok,24,3.4,"Fast Food, Biryani, Chinese"
 16500333,Nimtho,1,Gangtok,14,3.2,"Tibetan, Nepalese"
 16500304,Thakali,1,Gangtok,10,3.2,Nepalese
-18983524,Mehfill- Resto Bar,1,Gangtok,3,0,North Indian
+18983524,Mehfill- Resto Bar,1,Gangtok,3,0.0,North Indian
 18629821,Sula Vineyards,1,Nashik,228,4.7,"Cafe, Pizza, North Indian"
 1600099,Kokni Darbar,1,Nashik,938,4.2,"Fast Food, Chinese, Mughlai"
 1600067,Al Arabian Express,1,Nashik,689,4.4,Mughlai
@@ -1027,11 +1027,11 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 6600214,Beirute,30,Brasília,9,3.8,Arabian
 6601549,It Speed Lunch,30,Brasília,8,3.7,"Grill, Brazilian"
 6601602,Taco Pep,30,Brasília,31,4.5,"Mexican, Grill"
-6600754,Carcassone,30,Brasília,3,0,Bar Food
+6600754,Carcassone,30,Brasília,3,0.0,Bar Food
 6600083,Villa Tevere,30,Brasília,14,4.2,Italian
 6600611,Fred,30,Brasília,6,3.7,German
 6601595,Outback Steakhouse,30,Brasília,12,4.3,"American, Grill"
-6600542,Avenida Paulista,30,Brasília,0,0,"Italian, Pizza"
+6600542,Avenida Paulista,30,Brasília,0,0.0,"Italian, Pizza"
 6601145,Bierfass Pontão,30,Brasília,11,3.7,"Brazilian, Seafood"
 6600879,Babel,30,Brasília,5,2.8,Healthy Food
 6600379,Sushi Loko,30,Brasília,12,2.9,Japanese
@@ -1139,26 +1139,26 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 7101483,Burger Liquor,148,Wellington City,185,4.4,American
 7100178,Monsoon Poon,148,Wellington City,205,4.3,Asian
 7100865,Shed 5,148,Wellington City,139,4.5,"European, Pacific"
-7210754,The Golconda Bowl,17,Dummy,0,0,"North Indian, Mughlai"
-7204069,California Cantina,17,Dummy,0,0,"Burger, Fast Food, Mexican, American, Pizza"
-7200516,Bardelli's,17,Dummy,0,0,South Indian
-18133267,Baton Rouge,17,Dummy,0,0,Steak
-7204711,Dunkin Donuts,17,Dummy,0,0,"Fast Food, Desserts"
-7204029,L'Opera,17,Dummy,0,0,Bakery
-5,Yoko Sizzlers,17,Dummy,0,0,Japanese
-7200182,Kauai,17,Dummy,0,0,Healthy Food
-7204328,Mcdonalds,17,Dummy,0,0,"Italian, North Indian"
-3,Cafe Mangii,17,Dummy,0,0,"Italian, European, Bakery"
-2,PHD,17,Dummy,0,0,"Fast Food, Biryani"
-10,Hotel Sai Palace Garden,17,Dummy,0,0,"North Indian, Chinese, South Indian"
-7204068,La Pescadería de Walker,17,Dummy,0,0,Seafood
-7204327,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,17,Dummy,0,0,Turkish
-7204032,4700 BC Popcorn,17,Dummy,0,0,Desserts
-7206255,Indian Zaik,17,Dummy,0,0,"Fast Food, Indian"
-7209209,Arabic Nights,17,Dummy,0,0,"Turkish, Mediterranean"
-15557859,Domino's Pizza,17,Dummy,0,0,"Pizza, Fast Food"
-15561694,Geometrico,17,Dummy,0,0,Others
-15561685,El Patio,17,Dummy,0,0,Healthy Food
+7210754,The Golconda Bowl,17,Dummy,0,0.0,"North Indian, Mughlai"
+7204069,California Cantina,17,Dummy,0,0.0,"Burger, Fast Food, Mexican, American, Pizza"
+7200516,Bardelli's,17,Dummy,0,0.0,South Indian
+18133267,Baton Rouge,17,Dummy,0,0.0,Steak
+7204711,Dunkin Donuts,17,Dummy,0,0.0,"Fast Food, Desserts"
+7204029,L'Opera,17,Dummy,0,0.0,Bakery
+5,Yoko Sizzlers,17,Dummy,0,0.0,Japanese
+7200182,Kauai,17,Dummy,0,0.0,Healthy Food
+7204328,Mcdonalds,17,Dummy,0,0.0,"Italian, North Indian"
+3,Cafe Mangii,17,Dummy,0,0.0,"Italian, European, Bakery"
+2,PHD,17,Dummy,0,0.0,"Fast Food, Biryani"
+10,Hotel Sai Palace Garden,17,Dummy,0,0.0,"North Indian, Chinese, South Indian"
+7204068,La Pescadería de Walker,17,Dummy,0,0.0,Seafood
+7204327,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,17,Dummy,0,0.0,Turkish
+7204032,4700 BC Popcorn,17,Dummy,0,0.0,Desserts
+7206255,Indian Zaik,17,Dummy,0,0.0,"Fast Food, Indian"
+7209209,Arabic Nights,17,Dummy,0,0.0,"Turkish, Mediterranean"
+15557859,Domino's Pizza,17,Dummy,0,0.0,"Pizza, Fast Food"
+15561694,Geometrico,17,Dummy,0,0.0,Others
+15561685,El Patio,17,Dummy,0,0.0,Healthy Food
 7302200,Mamma Jamma,30,Rio de Janeiro,12,4.5,Pizza
 7303710,Paris 6,30,Rio de Janeiro,28,4.4,French
 7302898,Aprazível,30,Rio de Janeiro,63,4.9,Brazilian
